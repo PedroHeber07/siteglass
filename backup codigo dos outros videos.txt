@@ -1,0 +1,12 @@
+<video id="filme" poster="_imagens/video-mini01.jpg" controls>
+      <source src="_media/one-day.mp4" type="video/mp4"> </source>
+      <source src="_media/one-day.ogv" type="video/ogg"> </source>
+      <source src="_media/one-day.webm" type="video/webm"> </source>
+      Desculpe, mas não foi possível carregar o áudio.
+     </video>	 
+	 <video id="filme" poster="_imagens/video-mini02.jpg" controls>
+      <source src="_media/how-it-feels.mp4" type="video/mp4"> </source>
+      <source src="_media/how-it-feels.ogv" type="video/ogg"> </source>
+      <source src="_media/how-it-feels.webm" type="video/webm"> </source>
+      Desculpe, mas não foi possível carregar o áudio.
+     </video>	
